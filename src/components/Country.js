@@ -45,7 +45,7 @@ export default function Country() {
                     {country && (
                         <div>
                             <h1>Date and Time in {country}</h1>
-                            <p>{date}</p>
+                            <h2>{date}</h2>
                         </div>
                     )}
                 </div>
